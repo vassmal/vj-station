@@ -1,0 +1,36 @@
+{
+    "Version": 1,
+    "AllowedPlugins": {
+        "b0a5860a": {
+            "ComputerName": "RB15",
+            "Plugins": {
+                "C:/Users/camikura/dev/touchdesigner-atem-chop/examples/Plugins/AtemCHOP.dll": {
+                    "Hashes": [
+                        "22gQqaCGPSsvJ/fFg/z0PlA1fd6/n0TJM9fVSiF6qVVBlUsO11JGj7Ltawec09qKJFh05dOugANhvT/hfBNYxw+k/766R+fUlvnvQAbKfVAHdX+1azPlqrgaquQKwkxB"
+                    ],
+                    "AuthorName": "Akira Kamikura",
+                    "AuthorEmail": "akira.kamikura@gmail.com"
+                }
+            }
+        },
+        "9bf40f1d": {
+            "ComputerName": "DESKTOP-KEUIM1A",
+            "Plugins": {
+                "C:/Users/Vassilis/Dropbox/STUDIO/software/touchdesigner/touchdesigner-atem-chop-master/examples/Plugins/AtemCHOP.dll": {
+                    "Hashes": [
+                        "5Oiukd0ThzLwc/bRSA4YdCugfQP4j7XusYBAeqkdhw2thMHyhAEkQQ13E+iTmK2hqX95f9vhsGUOt2qIoX5hLid9FUbP2MQtagEaWIvY+118ad9GkRKW9CPIgUs1RlPm"
+                    ],
+                    "AuthorName": "Akira Kamikura",
+                    "AuthorEmail": "akira.kamikura@gmail.com"
+                },
+                "C:/Users/Vassilis/Dropbox/STUDIO/projects/vj-station/Plugins/AtemCHOP.dll": {
+                    "Hashes": [
+                        "E5MZZiocOtWU4aYWwRjeeBU+EYr32IDT1HpFWUpH5gxY8/rEC5AQimpITGRU9bKNp/tT+E9YSIXlEI5/8dy1n0SzDALaYmR0yKsCBLQyuK5I1v8PLg8iaxwFBNzFcbhg"
+                    ],
+                    "AuthorName": "Akira Kamikura",
+                    "AuthorEmail": "akira.kamikura@gmail.com"
+                }
+            }
+        }
+    }
+}
